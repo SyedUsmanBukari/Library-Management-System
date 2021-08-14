@@ -1,2 +1,1 @@
-# Library-Management-System
-This application provides a computerized version of library management system which will benefit the students. It also has a facility for student login where student can login and can see status of books. The proper maintenance of records issue dates and return dates with proper fine calculations. It makes more interactive user friendly and project which fulfills each users need in the best way possible.
+This application provides a computerized version of library management system which will benefit the students. Language used in this project is Java on front-end Netbeans IDE and mySQL back-end. It makes more interactive user friendly and project which fulfills each users need in the best way possible.
